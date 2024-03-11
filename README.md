@@ -1,2 +1,2 @@
-# linux-files
-My linux scripts and files
+# Linux Files
+My Linux files and scripts :)
