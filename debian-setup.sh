@@ -8,6 +8,5 @@ flatpak install flathub org.telegram.desktop
 
 # Download IDE
 mkdir ~/Applications
-wget https://dl.trikset.com/ts/trik-studio-installer-gnu64.run
 wget -O idea.tar.gz https://download.jetbrains.com/idea/ideaIC-2024.2.0.2.tar.gz
 tar -xf ./idea.tar.gz -C ~/Applications/
